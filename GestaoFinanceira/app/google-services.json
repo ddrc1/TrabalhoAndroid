@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727781890572",
+    "project_id": "gestao-financeira-8949c",
+    "storage_bucket": "gestao-financeira-8949c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727781890572:android:34447f8cefe6973d94ac29",
+        "android_client_info": {
+          "package_name": "com.example.gestaofinanceira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727781890572-3sgih37gfoef4h9lvcidaf9k1pija958.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEzsUmZoCYVlGb1meTKAUGibbhf30PQ5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727781890572-3sgih37gfoef4h9lvcidaf9k1pija958.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
